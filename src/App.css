@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+/* *{
+  outline: dotted red 1px;
+} */
+.color-me{
+  background-color: rgba(170, 9, 170, 0.623);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
